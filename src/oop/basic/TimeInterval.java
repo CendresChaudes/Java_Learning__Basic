@@ -27,6 +27,6 @@ public class TimeInterval {
     }
 
     public void print() {
-        System.out.println("Количество секунд: " + this.getTimeIntervalInSeconds());
+        System.out.println("Seconds count: " + this.getTimeIntervalInSeconds());
     }
 }
